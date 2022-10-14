@@ -1,0 +1,15 @@
+C:\Users\vodol\Desktop\Учеба\3. Знакомство с языком программирования\Знакомство с языком программирования С#\У.1\Examples\Example004_dif\bin\Debug\net6.0\Example004_dif.exe
+C:\Users\vodol\Desktop\Учеба\3. Знакомство с языком программирования\Знакомство с языком программирования С#\У.1\Examples\Example004_dif\bin\Debug\net6.0\Example004_dif.deps.json
+C:\Users\vodol\Desktop\Учеба\3. Знакомство с языком программирования\Знакомство с языком программирования С#\У.1\Examples\Example004_dif\bin\Debug\net6.0\Example004_dif.runtimeconfig.json
+C:\Users\vodol\Desktop\Учеба\3. Знакомство с языком программирования\Знакомство с языком программирования С#\У.1\Examples\Example004_dif\bin\Debug\net6.0\Example004_dif.dll
+C:\Users\vodol\Desktop\Учеба\3. Знакомство с языком программирования\Знакомство с языком программирования С#\У.1\Examples\Example004_dif\bin\Debug\net6.0\Example004_dif.pdb
+C:\Users\vodol\Desktop\Учеба\3. Знакомство с языком программирования\Знакомство с языком программирования С#\У.1\Examples\Example004_dif\obj\Debug\net6.0\Example004_dif.csproj.AssemblyReference.cache
+C:\Users\vodol\Desktop\Учеба\3. Знакомство с языком программирования\Знакомство с языком программирования С#\У.1\Examples\Example004_dif\obj\Debug\net6.0\Example004_dif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vodol\Desktop\Учеба\3. Знакомство с языком программирования\Знакомство с языком программирования С#\У.1\Examples\Example004_dif\obj\Debug\net6.0\Example004_dif.AssemblyInfoInputs.cache
+C:\Users\vodol\Desktop\Учеба\3. Знакомство с языком программирования\Знакомство с языком программирования С#\У.1\Examples\Example004_dif\obj\Debug\net6.0\Example004_dif.AssemblyInfo.cs
+C:\Users\vodol\Desktop\Учеба\3. Знакомство с языком программирования\Знакомство с языком программирования С#\У.1\Examples\Example004_dif\obj\Debug\net6.0\Example004_dif.csproj.CoreCompileInputs.cache
+C:\Users\vodol\Desktop\Учеба\3. Знакомство с языком программирования\Знакомство с языком программирования С#\У.1\Examples\Example004_dif\obj\Debug\net6.0\Example004_dif.dll
+C:\Users\vodol\Desktop\Учеба\3. Знакомство с языком программирования\Знакомство с языком программирования С#\У.1\Examples\Example004_dif\obj\Debug\net6.0\refint\Example004_dif.dll
+C:\Users\vodol\Desktop\Учеба\3. Знакомство с языком программирования\Знакомство с языком программирования С#\У.1\Examples\Example004_dif\obj\Debug\net6.0\Example004_dif.pdb
+C:\Users\vodol\Desktop\Учеба\3. Знакомство с языком программирования\Знакомство с языком программирования С#\У.1\Examples\Example004_dif\obj\Debug\net6.0\Example004_dif.genruntimeconfig.cache
+C:\Users\vodol\Desktop\Учеба\3. Знакомство с языком программирования\Знакомство с языком программирования С#\У.1\Examples\Example004_dif\obj\Debug\net6.0\ref\Example004_dif.dll
