@@ -1,0 +1,15 @@
+C:\Users\vodol\Desktop\Учеба\3. Знакомство с языком программирования\Знакомство с языком программирования С#\У.1\Examples\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.exe
+C:\Users\vodol\Desktop\Учеба\3. Знакомство с языком программирования\Знакомство с языком программирования С#\У.1\Examples\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.deps.json
+C:\Users\vodol\Desktop\Учеба\3. Знакомство с языком программирования\Знакомство с языком программирования С#\У.1\Examples\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.runtimeconfig.json
+C:\Users\vodol\Desktop\Учеба\3. Знакомство с языком программирования\Знакомство с языком программирования С#\У.1\Examples\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.dll
+C:\Users\vodol\Desktop\Учеба\3. Знакомство с языком программирования\Знакомство с языком программирования С#\У.1\Examples\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.pdb
+C:\Users\vodol\Desktop\Учеба\3. Знакомство с языком программирования\Знакомство с языком программирования С#\У.1\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.csproj.AssemblyReference.cache
+C:\Users\vodol\Desktop\Учеба\3. Знакомство с языком программирования\Знакомство с языком программирования С#\У.1\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vodol\Desktop\Учеба\3. Знакомство с языком программирования\Знакомство с языком программирования С#\У.1\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.AssemblyInfoInputs.cache
+C:\Users\vodol\Desktop\Учеба\3. Знакомство с языком программирования\Знакомство с языком программирования С#\У.1\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.AssemblyInfo.cs
+C:\Users\vodol\Desktop\Учеба\3. Знакомство с языком программирования\Знакомство с языком программирования С#\У.1\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.csproj.CoreCompileInputs.cache
+C:\Users\vodol\Desktop\Учеба\3. Знакомство с языком программирования\Знакомство с языком программирования С#\У.1\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.dll
+C:\Users\vodol\Desktop\Учеба\3. Знакомство с языком программирования\Знакомство с языком программирования С#\У.1\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\refint\Example005_ConditionIfElse.dll
+C:\Users\vodol\Desktop\Учеба\3. Знакомство с языком программирования\Знакомство с языком программирования С#\У.1\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.pdb
+C:\Users\vodol\Desktop\Учеба\3. Знакомство с языком программирования\Знакомство с языком программирования С#\У.1\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.genruntimeconfig.cache
+C:\Users\vodol\Desktop\Учеба\3. Знакомство с языком программирования\Знакомство с языком программирования С#\У.1\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\ref\Example005_ConditionIfElse.dll
